@@ -1,4 +1,4 @@
 # Streamlit-Logistic-Regression
-Сервис для визуализации кастомного класса логистической регрессии. Есть возможность загрузить свой датасет (должен быть подготовленный), выбрать фичи и таргет. Есть также возможность сровнить с логистической регрессией из scikit-learn.
-1. [Мой собственный кастомный класс](https://logistic-regression-veidlink-frombox.streamlit.app/)
-2. [Из коробки](https://logistic-regression-veidlink.streamlit.app/) 
+A service for visualizing a custom logistic regression class. You can upload your own dataset (it should be prepared), select features and a target variable. There is also an option to compare it with logistic regression from scikit-learn.
+1. [My Custom Class](https://logistic-regression-veidlink-frombox.streamlit.app/)
+2. [From scikit-learn](https://logistic-regression-veidlink.streamlit.app/)
